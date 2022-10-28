@@ -3,7 +3,7 @@ entries:
   opentelemetry-collector:
   - apiVersion: v2
     appVersion: 0.62.1
-    created: "2022-10-28T14:03:19.203212+02:00"
+    created: "2022-10-28T14:25:28.191774+02:00"
     description: OpenTelemetry Collector Helm chart for Kubernetes
     digest: 865d039b01249425aab40e4229652c9574446a284c46e125291acc57b5aada21
     home: https://opentelemetry.io/
@@ -17,6 +17,6 @@ entries:
     - https://github.com/open-telemetry/opentelemetry-collector-contrib
     type: application
     urls:
-    - https://saez0pub.github.io/opentelemetry-helm-charts/opentelemetry-collector-0.37.2.tgz
+    - https://saez0pub.github.io/opentelemetry-helm-charts/opentelemetry-collector/opentelemetry-collector/opentelemetry-collector-0.37.2.tgz
     version: 0.37.2
-generated: "2022-10-28T14:03:19.201299+02:00"
+generated: "2022-10-28T14:25:28.189161+02:00"
